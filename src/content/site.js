@@ -7,7 +7,7 @@ module.exports = {
   shortName: 'Cubela Bros.',
   // Public URL, no trailing slash. With a custom domain use e.g. 'https://cubelabros.com'
   // and set customDomain below (the build writes the CNAME file GitHub Pages needs).
-  siteUrl: 'https://amnavarrodev.github.io/web_cubelabros',
+  siteUrl: 'https://codinventa.github.io/web_cubelabros',
   customDomain: '', // e.g. 'cubelabros.com'
 
   phone: '(863) 555-0142', // TODO: real phone (shown on the site)

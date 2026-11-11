@@ -40,12 +40,12 @@ Abre http://localhost:8080/web_cubelabros/
 1. Sube el proyecto a `main` en GitHub (repositorio público).
 2. En el repositorio: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 3. Cada `git push` a `main` construye y publica el sitio solo. Queda en
-   `https://amnavarrodev.github.io/web_cubelabros/`
+   `https://codinventa.github.io/web_cubelabros/`
 
 ### Dominio propio (opcional)
 
 1. En `site.js`: `siteUrl: 'https://cubelabros.com'` y `customDomain: 'cubelabros.com'`.
-2. En el proveedor del dominio, crea registros `A` hacia `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` y un `CNAME` de `www` hacia `amnavarrodev.github.io`.
+2. En el proveedor del dominio, crea registros `A` hacia `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153` y un `CNAME` de `www` hacia `codinventa.github.io`.
 3. En **Settings → Pages** escribe el dominio y activa **Enforce HTTPS**.
 
 ## Formulario de contacto
